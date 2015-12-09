@@ -1,0 +1,5 @@
+Player won: Player 2 Funds spent: 25000 Buildings taken: 0 Units bought: 2 Player lost: Player 1 Funds spent: 30000 Buildings taken: 0 Units bought: 3
+Player won: Player 1 Funds spent: 19000 Buildings taken: 0 Units bought: 2 Player lost: Player 2 Funds spent: 0 Buildings taken: 0 Units bought: 0
+Player won: Player 2 Funds spent: 18000 Buildings taken: 0 Units bought: 1 Player lost: Player 1 Funds spent: 0 Buildings taken: 0 Units bought: 0
+Player won: Player 2 Funds spent: 18000 Buildings taken: 0 Units bought: 1 Player lost: Player 1 Funds spent: 0 Buildings taken: 0 Units bought: 0
+Player won: Player 1 Funds spent: 18000 Buildings taken: 0 Units bought: 1 Player lost: Player 2 Funds spent: 0 Buildings taken: 0 Units bought: 0
